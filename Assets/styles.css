@@ -501,12 +501,6 @@ footer>article:nth-child(5) ul>li {
     gap: 0.4rem;
     font-weight: 600;
 }
-
-footer>article:nth-child(5) ul>li {
- 
-    position: relative;
-}
-
 footer>article:nth-child(5) ul>li>a {
     text-decoration: none;
     color: black;
@@ -704,7 +698,6 @@ body {
         top: -25rem;
     }
     footer {
-        position: relative;
         top: -20rem;
         display: flex;
         flex-wrap: wrap;
